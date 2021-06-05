@@ -1,8 +1,8 @@
 # Time-Series
-Forecasting number of passengers for airlines from one time to another for every month
+1. Forecasting number of passengers for airlines from one time to another for every month
 
-checking graphs of Trends, Seasonal and Residuals
+2. checking graphs of Trends, Seasonal and Residuals
 
-Standardizing data
+3. Standardizing data
 
-Used "Adfuller" for checking of stationary and non stationary
+4. Used "Adfuller" for checking of stationary and non stationary
